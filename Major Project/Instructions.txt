@@ -1,0 +1,4 @@
+Steps to run the Software:
+1.Open the Program folder .
+2.In program folder star.m file is the main file of code.
+3.Run the start.m file in matlab.
